@@ -1,2 +1,2 @@
 # curso_phyton
-Curso de Phyton 9nivelamento UFRJ)
+Curso de Phyton (nivelamento UFRJ)
