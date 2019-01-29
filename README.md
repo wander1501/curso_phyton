@@ -1,2 +1,2 @@
-# curso_phyton
+# curso_python
 Curso de Python (nivelamento UFRJ)
