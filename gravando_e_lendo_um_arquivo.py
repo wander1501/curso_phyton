@@ -1,0 +1,7 @@
+arquivo = open("/convidado/curso_python/teste.txt","w")
+arquivo.write("Olá. Este é o meu primeiro arquivo criado com o python.")
+arquivo.close()
+arquivo = open("/convidado/curso_python/teste.txt","r")
+linha_do_arquivo = arquivo.readline()
+arquivo.close()
+print(linha_do_arquivo)
